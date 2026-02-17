@@ -1,5 +1,17 @@
 # NSF - IAIFI PhD Summer School 2026
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naman-dixit00/NSF-AI-IAIFI-Summer-School-2026/main/Meta%20Data/NSF%20AI-%20IAIFI.jpeg" 
+       alt="NSF AI-IAIFI Banner" 
+       style="width: 100%; max-width: 950px; height: auto; max-height: 350px; object-fit: cover; border-radius: 8px;">
+  <br>
+  <sub style="color: gray;">
+    The image provided above is for <b>reference purposes only</b>. All rights and intellectual property belong to the 
+    <b>NSF AI Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)</b> and its partner institutions 
+    (MIT, Harvard, Northeastern, and Tufts University).
+  </sub>
+</p>
+
 ## Overview
 The **NSF - IAIFI PhD Summer School 2026** is an intensive, interdisciplinary program focused on the intersection of **Artificial Intelligence and Fundamental Physics**. Organized by the **Institute for Artificial Intelligence and Fundamental Interactions (IAIFI)**, the summer school brings together leading researchers, early-career scientists, and students to explore cutting-edge AI methods applied to physics research.
 
